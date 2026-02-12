@@ -18,3 +18,5 @@ VALUES
 
 -- Verify the data
 SELECT * FROM PATIENT_RECORDS;
+
+select * from patient_records where patient_id in (101,102);
