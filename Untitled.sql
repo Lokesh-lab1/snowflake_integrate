@@ -1,1 +1,1 @@
-slect erguenrg ergehg;
+slect erguenrg hg;
